@@ -5,7 +5,7 @@ const Footer = () => {
         <p>
           Rancangan Footer{" "}
           <a
-            href="https://www.w3schools.com/w3css/default.asp"
+            href="https://fresh.deno.dev/components"
             title="W3.CSS"
             target="_blank"
             class="w3-hover-text-green"
